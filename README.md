@@ -1,2 +1,2 @@
 # piql
-Low-Level Database System for Fine-Grained Control. PickleBase is the first platform to power the newly defined language spec, PiQL.
+Low-level database system for fine-grained control. PiQL is a language spec, similar to SQL, which stands for Programmatic(ally interfaced) Query Language. PickleBase is the first database platform to implement PiQL.
